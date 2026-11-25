@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Editores
+.vscode/
+.idea/
+
+# Windows / OneDrive
+Thumbs.db
+desktop.ini
